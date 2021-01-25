@@ -1,4 +1,4 @@
-# Node-Docker
+# Node-Nginx-Docker
 
 A tiny docker image for Node JS + Docker workflow, Only 82MB in size!
 
